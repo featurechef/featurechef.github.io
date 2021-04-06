@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## Data science portfolio
 
-You can use the [editor on GitHub](https://github.com/featurechef/featurechef.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This portfolio is a growing compilation of notebooks created for exploring data analysis and machine learning topics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can find the main [GitHub repo](https://github.com/featurechef/featurechef.github.io/edit/main/index.md) to navigate or follow below to view project highlights.
 
-### Markdown
+![Image](image.jpg)
+
+### Data exploration and analysis
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -23,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
